@@ -9,9 +9,9 @@
             "sourceMaps": true,
             "cwd": "${workspaceRoot}",
             "name": "Launch Program",
-            "program": "${workspaceRoot}/app/4.ts",
+            "program": "${workspaceRoot}/app/1.ts",
             "outFiles": [
-                "${workspaceRoot}/dist/out-tsc/app/4.js"
+                "${workspaceRoot}/dist/out-tsc/app/1.js"
             ]
 
         },
