@@ -23,7 +23,9 @@ class AllStudent extends Student {
 
 }
 
-
+function abc() {
+    var a: IArguments = arguments;
+}
 
 
 

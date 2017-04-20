@@ -32,9 +32,7 @@ var person: { name: string, age: number } = { name: 'Pratik', age: 25 };
 ////////////////////// functions /////////////////////////////////
 
 function getNames(arr: { name: string, age: number }[]) {
-    return arr.map((item) => {
-        return item.name;
-    });
+    return arr.map((item) => item.name);
 }
 
 var persons = [person, person];
