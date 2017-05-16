@@ -23,11 +23,6 @@ class AllStudent extends Student {
 
 }
 
-function abc() {
-    var a: IArguments = arguments;
-}
-
-
 
 class Person implements IPerson {
     public gender: string;
